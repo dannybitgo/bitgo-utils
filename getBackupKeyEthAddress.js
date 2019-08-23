@@ -6,6 +6,10 @@
  * example:
  *
  * node getBackupKeyEthAddress.js 5c33da5cadc74bd2038002dcfd945527 test
+ *
+ * or for production:
+ *
+ * node getBackupKeyEthAddress.js 5c33da5cadc74bd2038002dcfd945527 prod
  */
 
 /**
