@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bitgo": "^7.1.1"
+    "bitgo": "^14.2.1"
   }
 }
